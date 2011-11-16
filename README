@@ -1,0 +1,5 @@
+
+1. Make dog immutable.
+2. Provide equals and hashCode methods.
+3. Create an array of Animal objects and sort them according to age using a java.util.Comparator.
+4. Write a doGet/doPost method of a servlet that accepts arguments and creates from them Dog objects.
